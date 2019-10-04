@@ -405,3 +405,26 @@ figure {
   left: 110px;
   line-height: 36px;
 }
+.date{
+  color: #c1a067;
+  font-size: 14px;
+
+}
+.article1{
+  position: relative;
+  bottom:300px;
+  left: 70px;
+}
+.grayline2
+{border-bottom: 1px solid;
+  width: 588px;
+  color: #eceaed;
+  position: relative;
+  bottom: 280px;
+  left: 70px;
+}
+.vcestatii{
+  position: relative;
+  left: 280px;
+  top: -250px;
+}
