@@ -1,0 +1,436 @@
+body {
+  font-family: "Circe", sans-serif;
+  color: #000000;
+  font-size: 13px; 
+}
+h1{
+  position: absolute;
+  left: -220px;
+  top: 100px;
+  font-size: 56px; 
+  font-weight: bold;
+  letter-spacing:1.1px;
+  font-variant: small-caps;
+ 
+}
+h2{
+font-size: 20px; 
+letter-spacing:0.5px;
+font-variant: small-caps;
+padding:46px;
+}
+h3{
+  width: 419px;
+  font-size: 36px; 
+  line-height: 36px;
+  letter-spacing:0.5px;
+  font-variant: small-caps;
+  text-align: center;
+  position: relative;
+  left: 510px;
+  bottom: 340px;
+  border-bottom: 2px solid #c1a067;
+  padding:0px 0px 10px 0px;
+
+
+}
+h4{
+
+  font-size: 14px; 
+  letter-spacing:0.5px;
+  font-variant: small-caps;
+  position: relative;
+  bottom:345px;
+
+}
+h5{
+  font-size: 16px;
+  text-transform:uppercase;
+  position: relative;
+  top: 20px;
+}
+a{
+ color: #000000;
+ text-decoration: none;
+}
+
+#navbar {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+
+#navbar a {
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  position: relative;
+  left: 16px;
+  top:5px;
+  margin-left:54px;
+
+}
+
+.logo{
+position: relative;
+left:70px;
+bottom: 5px;
+}
+.container-1 {
+ border-bottom: 2px solid;
+  color: #c1a067;
+  width: 801px;
+  position: relative;
+ margin-left:361px;
+ position: absolute;
+  top: 8%;
+
+}
+input{
+  padding-bottom:20px;
+  font-size: 14px; 
+  font-variant: small-caps;
+  border-width: 0px;
+  width: 801px;
+  font-weight:bold;
+  letter-spacing: 1px;
+}
+.icon{
+  
+  position: absolute;
+  top: 8%;
+  left:788px;
+}
+
+#lk{
+ list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+ #lk a{
+  
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  margin-left: 90px;
+  position: relative;
+  left: 1010px;
+  top:-25px;
+ }
+#lk span{
+  position: relative;
+  top:-2px;
+  }
+
+.line{
+	border-bottom: 1px solid #eceaed;
+	padding-bottom: 10px;
+}
+
+#navbar1{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+
+#navbar1 a{
+ 
+  color: #ffffff;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+  left: 70px;
+  top:22px;
+  margin-left: 58px;
+  letter-spacing: 0.5px;
+}
+
+.black{
+	width: 1280px;
+  height: 60px;
+  background-color: #302a31;
+  position: relative;
+  bottom: 10px;
+}
+.first1{
+  margin-left: -70px;
+}
+ 
+#pink{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+.pink{
+  width: 160px;
+  height:60px;
+  background-color: #c16774;
+  position: relative;
+  left: 1280px;
+  bottom:70px;
+
+}
+#pink a{
+  color: #ffffff;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  text-transform:uppercase;
+  position: relative;
+  top:22px;
+  left: 55px;
+  }
+.contact{
+  position: relative;
+  bottom:40px;
+}
+#contact{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  font-size: 14px; 
+  font-variant: small-caps;
+  position: relative;
+  margin-left:361px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+#contact i{
+  color:#c1a067;
+  margin:0px 17px 0px 58px;
+}
+#contact a{
+  display: inline-block;
+  font-size: 14px;
+}
+.sbag{
+  position: relative;
+  left:1280px;
+  top:-260px;
+  width: 90px;
+  height: 90px;
+  background-color: #c1a067; 
+}
+.bag{
+  color:#ffffff;
+  font-size: 35px;
+  position: relative;
+  left:30px;
+  top:20px;
+}
+.dama{
+ position: relative;
+left: 290px;
+ bottom:84px;
+}
+.duhi{
+  position: absolute;
+  left: 480px;
+  top:110px;
+}
+.podrobnee{
+  color: #c1a067;
+  text-decoration: none;
+  position: relative;
+  right:1303px;
+  bottom:127px;
+  font-size: 14px;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+}
+.line2{
+  border-bottom: 2px solid;
+  color: #c1a067;
+  width: 220px;
+  position: relative;
+  right:220px;
+  bottom:107px;
+}
+
+#recomend li{
+  list-style-type: none;
+  line-height:36px;
+  position: relative;
+  bottom:20px;
+}
+#recomend a{
+  color: #302a31;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  padding: 10px;  
+}
+.gray{
+  width: 330px;
+  height: 284px;
+  background-color:#f9f9f9;
+  position: relative;
+  left:1072px;
+  bottom:628px;
+  
+}
+.line3{
+  width: 320px;
+  position: relative;
+  left: 48px;
+  bottom: 36px;
+  
+}
+ul.poddama{ 
+  margin: 0;
+}
+
+ul.poddama li{
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 20px;
+  }
+.original{
+margin-left: 140px;
+margin-bottom: 70px;
+}
+.besplatno{
+margin-left: 220px;
+}
+.skidki{
+margin-left: 160px;
+
+}
+.dostavki{
+margin-left: 203px;
+}
+.grayline{
+  border-bottom: 1px solid;
+  width: 80px;
+  color: #eceaed;
+  position: relative;
+  bottom: 465px;
+  left: 70px;
+}
+.grayline2{
+  border-bottom: 1px solid;
+  width: 80px;
+  color: #eceaed;
+  position: relative;
+  bottom: 465px;
+  left: 400px;
+}
+.grayline3{
+  border-bottom: 1px solid;
+  width: 80px;
+  color: #eceaed;
+  position: relative;
+  bottom: 465px;
+  left:730px;
+}
+.grayline4{
+  border-bottom: 1px solid;
+  width: 80px;
+  color: #eceaed;
+  position: relative;
+  bottom: 465px;
+  left:1060px;
+
+}
+
+figure {
+    display: block; 
+    float: left;
+    text-align: center;
+    position: relative;
+    left: 70px;
+    bottom: 300px;
+    margin-bottom:120px;
+
+
+  }
+
+.duhiname{
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  text-decoration:none;
+  text-transform:uppercase;
+  float: center;
+
+}
+.podpis{
+  text-transform:none;
+  margin-top: 20px;
+  font-size: 13px;
+  color: #a09ea0;
+
+}
+.cross{
+  text-transform:uppercase;
+  margin-top: 20px;
+  font-size: 13px;
+  color: #c5737e; 
+  text-decoration:line-through;
+
+}
+.price{
+  text-transform:none;
+  margin-top: 20px;
+  font-size: 13px;
+  color: #000000;
+  white-space:pre-wrap; 
+
+}
+.vcebrendi{
+  color: #c1a067;
+  font-size: 14px;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+  text-align: center;
+  position: relative;
+  bottom: 350px;
+  right:80px;
+}
+
+.brandname{
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  text-decoration:none;
+  text-transform:uppercase;
+  float: center;
+  margin-left: -15px;
+
+}
+.littlebrandname{
+  text-transform:none;
+  margin-top: 20px;
+  font-size: 16px;
+  color: #000000;
+  text-align: left;
+  position: relative;
+  left: 110px;
+  line-height: 36px;
+}
+.date{
+  color: #c1a067;
+  font-size: 14px;
+
+}
+.article1{
+  position: relative;
+  bottom:300px;
+  left: 70px;
+}
+.grayline2
+{border-bottom: 1px solid;
+  width: 588px;
+  color: #eceaed;
+  position: relative;
+  bottom: 280px;
+  left: 70px;
+}
+.vcestatii{
+  position: relative;
+  left: 280px;
+  top: -250px;
+}
