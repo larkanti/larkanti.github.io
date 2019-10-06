@@ -140,10 +140,10 @@ input{
   display: inline-block;
   font-size: 16px;
   position: relative;
-  left: 70px;
+  left: 34px;
   top:22px;
-  margin-left: 58px;
-  letter-spacing: 0.5px;
+  margin-left: 39px;
+  
 }
 
 .black{
@@ -152,9 +152,6 @@ input{
   background-color: #302a31;
   position: relative;
   bottom: 10px;
-}
-.first1{
-  margin-left: -70px;
 }
  
 #pink{
@@ -310,7 +307,7 @@ margin-left: 203px;
   bottom: 465px;
   left: 70px;
 }
-.grayline2{
+.grayline1{
   border-bottom: 1px solid;
   width: 80px;
   color: #eceaed;
