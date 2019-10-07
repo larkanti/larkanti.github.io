@@ -68,9 +68,10 @@ a{
   left: 16px;
   top:5px;
   margin-left:54px;
-
+	}
+#navbar a:hover{
+	color:#c1a067;
 }
-
 .logo{
 position: relative;
 left:70px;
@@ -351,7 +352,7 @@ figure {
   letter-spacing: 0.5px;
   text-decoration:none;
   text-transform:uppercase;
-  float: center;
+  
 
 }
 .podpis{
@@ -394,7 +395,7 @@ figure {
   letter-spacing: 0.5px;
   text-decoration:none;
   text-transform:uppercase;
-  float: center;
+
   margin-left: -15px;
 
 }
