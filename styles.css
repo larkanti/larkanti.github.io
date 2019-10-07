@@ -270,6 +270,9 @@ left: 290px;
   bottom:628px;
   
 }
+.gray a:hover{
+	color:#c16774;
+}
 .line3{
   width: 320px;
   position: relative;
